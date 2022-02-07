@@ -10,12 +10,29 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~44.0.0",
-    "expo-status-bar": "~1.2.0",
+    "@mediapipe/pose": "~0.4.0",
+    "@react-native-async-storage/async-storage": "1.15.7",
+    "@tensorflow-models/pose-detection": "0.0.6",
+    "@tensorflow/tfjs": "3.12.0",
+    "@tensorflow/tfjs-react-native": "0.8.0",
+    "dataframe-js": "^1.4.4",
+    "expo": "~44.0.2",
+    "expo-camera": "^12.1.0",
+    "expo-file-system": "^13.2.0",
+    "expo-gl": "^11.1.1",
+    "expo-gl-cpp": "^11.1.0",
+    "expo-image-manipulator": "^6.0.0",
+    "expo-screen-orientation": "~4.1.1",
+    "expo-splash-screen": "~0.10.2",
+    "expo-updates": "~0.5.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native": "~0.64.3",
+    "react-native-fs": "2.14.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-svg": "^9.13.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
